@@ -1,1 +1,2 @@
-this is my git program
+this is my git 
+and now i updated
